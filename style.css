@@ -1,10 +1,9 @@
-
 .hero-image {
-    background-image: url("/assets/panditacool.jpg");
-    background-color: #cccccc;
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  }
+  background-image: url("  https://wallpapers.com/images/high/cute-panda-bubble-ipad-mini-4ef2hh3050myhnff.webp");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
