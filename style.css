@@ -1,5 +1,5 @@
 .hero-image {
-  background-image: url("  https://wallpapers.com/images/high/cute-panda-bubble-ipad-mini-4ef2hh3050myhnff.webp");
+  background-image: url(" https://images.unsplash.com/photo-1559291001-693fb9166cba?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9uZG9zJTIwZGUlMjBwYW50YWxsYSUyMGRlJTIwYWx0YSUyMGRlZmluaWNpJUMzJUIzbiUyMGNvbXBsZXRhfGVufDB8fDB8fHww&w=1000");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
@@ -7,3 +7,12 @@
   background-size: cover;
   position: relative;
 }
+
+
+.text-body-secondary {
+  --bs-text-opacity: 1;
+  color: #dee2e6!important;
+}
+
+
+
